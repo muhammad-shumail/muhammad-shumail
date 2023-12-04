@@ -53,14 +53,26 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/muhammad-shumail/muhammad-shumail/blob/main/devcard.svg" width="400" alt="Muhammad Shumail's Dev Card"/></a>
 
 
-# My GitHub Stats
+# My GitHub Stats 📊
 
 ![Shumail's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-shumail&show_icons=true&theme=radical)
 
-# My commits
+# My GitHub Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-shumail&theme=radical&column=7)]
+
+
+# My GitHub Streak 🔥
 
 ![Shumail's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shumail&theme=radical)
 
-# Languages Used
+# My GitHub Top Languages 📈
 
 ![Shumail's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shumail&theme=radical)
+
+
+# My GitHub Contributions 💻
+
+![Shumail's github contributions](https://github-contribution-stats.vercel.app/api/?username=muhammad-shumail&theme=radical)
+
+
