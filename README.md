@@ -53,13 +53,9 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/muhammad-shumail/muhammad-shumail/blob/main/devcard.svg" width="400" alt="Muhammad Shumail's Dev Card"/></a>
 
 
-# My GitHub Stats 📊
-
-![Shumail's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-shumail&show_icons=true&theme=radical)
-
 # My GitHub Trophies 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-shumail&theme=radical&column=7)]
+![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-shumail&theme=radical&column=7)
 
 
 # My GitHub Streak 🔥
@@ -74,5 +70,3 @@
 # My GitHub Contributions 💻
 
 ![Shumail's github contributions](https://github-contribution-stats.vercel.app/api/?username=muhammad-shumail&theme=radical)
-
-
