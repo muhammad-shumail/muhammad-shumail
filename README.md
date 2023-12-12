@@ -1,7 +1,7 @@
 ## [![Shumail header](https://github.com/muhammad-shumail/muhammad-shumail/blob/main/assets/banner.webp)](https://daily-dev-tips.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shumail/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shumail-ansari/) 
 
 <h1 align="left">Hi there 👋 I’m Muhammad Shumail Ansari</h1> <h2 align="left">A Full Stack Developer who specializes in MERN Stack, Mobile Apps, and CMS Development 🚀</h2>
 
