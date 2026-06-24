@@ -1,71 +1,200 @@
 # 👋 Hi, I'm Muhammad Shumail Ansari
 
-In today's fast-paced digital world, is it enough to just build a functional product? I believe true success lies where **innovation meets infallibility**. For me, crafting exceptional web applications isn't just about writing elegant code—it's about building user trust through a relentless commitment to quality.
+### Frontend Engineer | React.js | Next.js | TypeScript | Building Scalable Enterprise Web Applications
+
+I’m a Frontend Engineer with nearly 5 years of experience building responsive, scalable, and high-performance web applications using React.js, Next.js, TypeScript, and modern JavaScript technologies.
+
+My focus is on creating maintainable frontend architectures, reusable component systems, and intuitive user experiences for enterprise platforms, SaaS products, administration portals, and customer-facing applications.
+
+Alongside frontend engineering, I bring strong software quality practices including automated testing, API validation, performance analysis, and production issue investigation, helping teams deliver reliable software with confidence.
+
+---
 
 ## 🚀 Current Role
 
-**Frontend Developer at [Cloud Primero B.V.](https://cloudprimero.com/)**  
-Specializing in transforming complex ideas into high-performance, SEO-friendly web applications.
+Frontend Engineer at Cloud Primero B.V.
+
+Working on enterprise healthcare and education platforms using React.js, Next.js, TypeScript, Redux Toolkit, REST APIs, and modern frontend engineering practices.
 
 ---
 
-## 🛠️ Core Competencies
+## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** Next.js, React.js
-- **Frontend Concepts:** SSR, SSG, SEO Optimization, Responsive Design, UI/UX, Type Safety
-- **Quality Assurance:** Manual & Automated Testing, UAT, Test Case Development, Defect Tracking
-- **Tools & Methodologies:** Agile, Scrum, Git, JIRA, CI/CD, Cross-Browser Compatibility
+### Frontend
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* SASS
+* Redux Toolkit
+
+### Frontend Engineering
+
+* Component Architecture
+* State Management
+* Responsive Design
+* API Integration
+* Performance Optimization
+* Code Splitting
+* Lazy Loading
+* Cross-Browser Compatibility
+* SEO Optimization
+* Server-Side Rendering (SSR)
+* Static Site Generation (SSG)
+
+### Testing & Quality
+
+* Jest
+* React Testing Library
+* Playwright
+* Puppeteer
+* Postman
+* API Testing
+* Performance Testing (k6)
+
+### Backend & Data
+
+* Node.js
+* Express.js
+* MongoDB
+* PostgreSQL
+* MySQL
+* Firebase
+* REST APIs
+
+### Tools & Workflow
+
+* Git
+* GitHub
+* Linux
+* Jira
+* Agile
+* Scrum
+* CI/CD
+* GitHub Actions
 
 ---
 
-### 🛠️ Quality Assurance Insights
+## 🌟 Featured Projects
 
-- Identified challenges with bug tagging and consistent priority levels in software projects
-- Improved clarity on when tickets are genuinely "Ready for QA" for smoother release cycles
-- Enhanced communication and stability of testing environments before deployment
+### 🏫 School ERP Administration Portal
 
----
+Live Demo: https://school-admin-shumail.vercel.app/home
 
-### 🌱 Professional Growth & Exploration
+A comprehensive School ERP platform featuring student management, attendance tracking, examinations, teacher administration, fee management, role-based permissions, and responsive dashboards.
 
-- Currently mastering global automation and testing tools:
-    - **Cypress, Playwright, Selenium** for advanced browser automation
-    - **Postman, Rest Assured, SoapUI** for API validation and integration testing
-    - **OWASP ZAP, Burp Suite, SQLMap, Nikto** for web application security and vulnerability assessments
-- Increasing expertise in **SAST/DAST security models** to improve secure software development across regions
-- Focused on preventive QA strategies and proactive testing, ensuring high-quality releases for users worldwide
+**Tech:** Next.js, TypeScript, Tailwind CSS, RBAC
 
 ---
 
-## 🧠 My Philosophy
+### 🏢 Enterprise Administration Portal
 
-> "Quality is not a final gate, but a continuous thread woven throughout the entire development lifecycle."
+Live Demo: https://admin-portal-shumail.vercel.app/
 
-I champion best practices in Agile methodologies and foster a culture of continuous improvement—helping teams reduce rework, accelerate delivery, and build digital products that delight users.
+Modern enterprise administration portal featuring analytics dashboards, reporting modules, user management, and system configuration workflows.
 
----
-
-## 🤝 Let’s Connect!
-
-- [Portfolio](https://shumail.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-shumail-ansari/)
-- Open to conversations about modern frontend architecture, QA in Agile teams, and collaborations!
+**Tech:** Next.js, React.js, TypeScript, Tailwind CSS
 
 ---
 
-## 🌟 Get to Know Me
+### 📊 SaaS Administration Dashboard
 
-- Passionate about building the future of the web
-- Bridging the gap between development and quality with a developer’s mindset for QA
-- Always eager to connect with fellow tech professionals, product managers, and leaders
+Live Demo: https://shumail-admin-dashboard.vercel.app/
+
+Analytics-focused SaaS dashboard with KPI tracking, reporting modules, reusable widgets, and data visualizations.
+
+**Tech:** Next.js, React.js, TypeScript, Recharts
 
 ---
 
-<!-- Optionally, add favorite projects below if desired! -->
+### 🤖 AI SaaS Dashboard
 
-<!--
-## 📂 Featured Projects
+Live Demo: https://shuamil-ai-saas-dashboard-azure.vercel.app/
 
-- [Project Name](project-link) — short description
--->
+Modern AI SaaS platform dashboard featuring workspace management, analytics, productivity workflows, and scalable UI architecture.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS
+
+---
+
+### 🛒 E-Commerce Storefront
+
+Live Demo: https://shumail-e-commerce-storefront.vercel.app/
+
+Responsive e-commerce storefront featuring product catalogs, category browsing, product detail pages, shopping cart workflows, and optimized user experiences.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS
+
+---
+
+### 📄 ATS Resume Builder
+
+Live Demo: https://shumail.vercel.app/projects/resume-builder
+
+ATS-focused resume builder with real-time editing, template management, live preview, and PDF export functionality.
+
+**Tech:** React.js, TypeScript
+
+---
+
+### 🔌 API HUB Testing Tool
+
+Live Demo: https://shumail.vercel.app/projects/api-hub-testing-tool
+
+Browser-based API testing application for sending requests, inspecting responses, validating APIs, and monitoring request performance.
+
+**Tech:** React.js, TypeScript, Tailwind CSS
+
+---
+
+### ⚡ Performance Testing & Reporting Framework
+
+Custom performance testing framework supporting load, stress, and spike testing scenarios with automated reporting and visualization dashboards.
+
+**Tech:** Next.js, k6, Bun.js
+
+---
+
+## 🎯 Areas of Interest
+
+* Frontend Engineering
+* React.js Ecosystem
+* Next.js Applications
+* Enterprise Dashboard Development
+* SaaS Platforms
+* Design Systems
+* Performance Optimization
+* Web Application Architecture
+* Developer Experience
+* Software Quality Engineering
+
+---
+
+## 🧠 Engineering Philosophy
+
+> Great software is built when scalable architecture, exceptional user experience, and reliable quality work together.
+
+I enjoy building products that are maintainable, performant, and user-focused while applying engineering practices that reduce technical debt and improve long-term scalability.
+
+---
+
+## 🤝 Connect With Me
+
+Portfolio: https://shumail.vercel.app
+
+LinkedIn: https://www.linkedin.com/in/muhammad-shumail-ansari/
+
+GitHub: https://github.com/muhammad-shumail/
+
+---
+
+### Fun Facts
+
+* Building React & Next.js applications since 2021
+* Passionate about frontend architecture and reusable component systems
+* Strong advocate of quality-first engineering practices
+* Always learning new technologies and modern development patterns
