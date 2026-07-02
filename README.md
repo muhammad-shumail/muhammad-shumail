@@ -1,274 +1,430 @@
-# 👋 Hi, I'm Muhammad Shumail Ansari
-
-### Frontend Engineer | React.js | Next.js | TypeScript | Building Scalable Enterprise Web Applications
-
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhammad-shumail.muhammad-shumail&left_color=black&right_color=blue)](https://github.com/muhammad-shumail)
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=muhammad-shumail&theme=dark&no-frame=true&margin-w=4)](https://github.com/muhammad-shumail)
-
----
-
-## 👨‍�� About Me
-
-I'm a Frontend Engineer with **5+ years** of experience building responsive, scalable, and high-performance web applications using React.js, Next.js, TypeScript, and modern JavaScript technologies.
-
-My focus is on creating **maintainable frontend architectures**, **reusable component systems**, and **intuitive user experiences** for enterprise platforms, SaaS products, administration portals, and customer-facing applications.
-
-Alongside frontend engineering, I bring **strong software quality practices** including automated testing, API validation, performance analysis, and production issue investigation, helping teams deliver robust and production-ready applications.
-
----
-
-## 🚀 Current Role
-
-**Frontend Engineer at Cloud Primero B.V.**
-
-Working on enterprise healthcare and education platforms using React.js, Next.js, TypeScript, Redux Toolkit, REST APIs, and modern frontend engineering practices.
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-shumail&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+# 👋 Muhammad Shumail Ansari
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shumail&theme=dark&hide_border=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+React+Specialist;Building+Production-Grade+Web+Applications;Enterprise+Dashboards+%26+SaaS+Platforms)](https://github.com/muhammad-shumail)
+
+<p>
+  <a href="https://shumail.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-181817?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shumail-ansari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shumail.ansari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/muhammad-shumail" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-shumail.muhammad-shumail&left_color=1f1f1f&right_color=61DAFB" />
+  <img src="https://img.shields.io/github/followers/muhammad-shumail?style=flat&logo=github&logoColor=white&label=Followers" />
+  <img src="https://img.shields.io/badge/Open_To_Work-00d084?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
 
 </div>
 
+## 🎯 About Me
+
+I'm a **Frontend Engineer** specializing in building **production-grade React and Next.js applications** that scale. With **5+ years** of experience, I've architected and delivered enterprise dashboards, SaaS platforms, and responsive web applications that power millions of interactions.
+
+My passion lies in crafting **maintainable component systems**, optimizing **web performance**, and implementing **enterprise-scale UI architectures**. I approach every project with a **quality-first mindset**, combining modern frontend best practices with rigorous testing and performance optimization.
+
+**Currently:** Frontend Engineer at **Cloud Primero B.V.** | Building enterprise healthcare & education platforms
+
+**Philosophy:** *Great frontend architecture is invisible—but its impact is everywhere.*
+
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
 
-### **Frontend Technologies**
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&logoWidth=30" /><br />
+      <strong>React.js</strong>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&logoWidth=30" /><br />
+      <strong>Next.js</strong>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&logoWidth=30" /><br />
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&logoWidth=30" /><br />
+      <strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white&logoWidth=30" /><br />
+      <strong>Redux</strong>
+    </td>
+  </tr>
+</table>
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+---
+
+## 💼 Tech Stack
+
+<div align="center">
+
+### Frontend Fundamentals
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript ES6+](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SASS/SCSS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![CSS_Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=flat-square&logo=cssmodules&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-### **State Management & Frontend Engineering**
-
+### State Management & API
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-- Component Architecture
-- Responsive Design
-- API Integration
-- Performance Optimization
-- Code Splitting & Lazy Loading
-- Cross-Browser Compatibility
-- SEO Optimization
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-412991?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4A90E2?style=flat-square&logoColor=white)
 
-### **Testing & Quality Assurance**
-
+### Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
-- API Testing (Postman)
-- Performance Testing (k6)
-- E2E Testing
-- Unit Testing
-- Integration Testing
-
-### **Backend & Databases**
-
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### **Tools & DevOps**
-
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Jira & Agile Methodology
-- Scrum Framework
-- CI/CD Pipelines
-- Docker & Containerization
-- REST APIs
-
----
-
-## 🌟 Featured Projects
-
-### 🏫 [School ERP Administration Portal](https://github.com/muhammad-shumail/school-erp-admin)
-**Live Demo:** [https://school-admin-shumail.vercel.app/home](https://school-admin-shumail.vercel.app/home)
-
-A comprehensive School ERP platform featuring:
-- 📚 Student Management System
-- ✅ Attendance Tracking
-- 📝 Examination Management
-- 👨‍🏫 Teacher Administration
-- 💰 Fee & Billing Management
-- 🔐 Role-Based Access Control (RBAC)
-- 📊 Responsive Analytics Dashboards
-
-**Tech Stack:** Next.js · TypeScript · Tailwind CSS · RBAC · REST APIs
-
----
-
-### 🏢 [Enterprise Administration Portal](https://github.com/muhammad-shumail/enterprise-admin-portal)
-**Live Demo:** [https://admin-portal-shumail.vercel.app/](https://admin-portal-shumail.vercel.app/)
-
-Modern enterprise administration portal featuring:
-- 📊 Analytics Dashboards
-- 📈 Advanced Reporting Modules
-- 👥 User Management & Permissions
-- ⚙️ System Configuration Workflows
-- 📋 Team Management
-- 🔔 Real-time Notifications
-
-**Tech Stack:** Next.js · React.js · TypeScript · Tailwind CSS · Redux Toolkit
-
----
-
-### 🤖 [AI SaaS Dashboard](https://github.com/muhammad-shumail/ai-saas-dashboard)
-**Live Demo:** [https://shuamil-ai-saas-dashboard-azure.vercel.app/](https://shuamil-ai-saas-dashboard-azure.vercel.app/)
-
-Modern AI-powered SaaS platform dashboard featuring:
-- 🏢 Workspace Management
-- 📊 AI Analytics & Insights
-- 🛠️ Productivity Workflows
-- 🎨 Scalable UI Architecture
-- ⚡ Performance Optimized
-- 🔐 User Authentication & Authorization
-
-**Tech Stack:** Next.js · TypeScript · Tailwind CSS · AI Integration
-
----
-
-### 📊 [SaaS Administration Dashboard](https://github.com/muhammad-shumail/saas-admin-dashboard)
-**Live Demo:** [https://shumail-admin-dashboard.vercel.app/](https://shumail-admin-dashboard.vercel.app/)
-
-Analytics-focused SaaS dashboard featuring:
-- 📈 KPI Tracking & Monitoring
-- 📋 Advanced Reporting
-- 🎨 Reusable Dashboard Widgets
-- 📊 Data Visualizations (Recharts)
-- 🔍 Performance Metrics
-- 📱 Mobile-Responsive Design
-
-**Tech Stack:** Next.js · React.js · TypeScript · Recharts
-
----
-
-### 🛒 [E-Commerce Storefront](https://github.com/muhammad-shumail/ecommerce-storefront)
-**Live Demo:** [https://shumail-e-commerce-storefront.vercel.app/](https://shumail-e-commerce-storefront.vercel.app/)
-
-Responsive e-commerce storefront featuring:
-- 📦 Product Catalog Management
-- 🏷️ Advanced Category Browsing
-- 📄 Detailed Product Pages
-- 🛍️ Shopping Cart Workflows
-- 💳 Checkout Integration
-- ⭐ Product Reviews & Ratings
-- 🔍 Search & Filtering
-
-**Tech Stack:** Next.js · TypeScript · Tailwind CSS · REST APIs
-
----
-
-### 📄 [ATS Resume Builder](https://github.com/muhammad-shumail/resume-builder)
-**Live Demo:** [https://shumail.vercel.app/projects/resume-builder](https://shumail.vercel.app/projects/resume-builder)
-
-ATS-optimized resume builder featuring:
-- ✏️ Real-time Resume Editing
-- 🎨 Multiple Template Options
-- 👁️ Live Preview
-- 📥 PDF Export
-- ✅ ATS Validation
-- 🔄 Resume Sync & Management
-
-**Tech Stack:** React.js · TypeScript · Tailwind CSS
-
----
-
-### 🔌 [API Hub Testing Tool](https://github.com/muhammad-shumail/api-hub-testing)
-**Live Demo:** [https://shumail.vercel.app/projects/api-hub-testing-tool](https://shumail.vercel.app/projects/api-hub-testing-tool)
-
-Browser-based API testing application featuring:
-- 📤 HTTP Request Builder
-- 🔍 Response Inspector
-- ✅ API Response Validation
-- ⏱️ Performance Monitoring
-- 📊 Request History
-- 🎯 Collection Management
-
-**Tech Stack:** React.js · TypeScript · Tailwind CSS
-
----
-
-### ⚡ [Performance Testing & Reporting Framework](https://github.com/muhammad-shumail/performance-testing-framework)
-
-Custom performance testing framework supporting:
-- 📈 Load Testing Scenarios
-- 💥 Stress Testing
-- 🎯 Spike Testing
-- 📊 Automated Reporting
-- 📉 Visualization Dashboards
-- 🔬 Performance Analysis
-
-**Tech Stack:** Next.js · k6 · Bun.js · TypeScript
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shumail&theme=react-dark&hide_border=true)
+### Performance & Optimization
+![Web Vitals](https://img.shields.io/badge/Web_Vitals-4285F4?style=flat-square&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F8991D?style=flat-square&logo=lighthouse&logoColor=white)
+![Code Splitting](https://img.shields.io/badge/Code_Splitting-61DAFB?style=flat-square&logoColor=white)
+![Caching Strategies](https://img.shields.io/badge/Caching-FF6B6B?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## ✨ Featured Projects
 
-| Category | Topics |
-|----------|--------|
-| **Frontend** | React.js Ecosystem · Next.js · TypeScript · Web Components |
-| **Architecture** | Enterprise Dashboard Development · SaaS Platforms · Design Systems |
-| **Performance** | Performance Optimization · Web Vitals · Code Splitting · Lazy Loading |
-| **Engineering** | Web Application Architecture · Developer Experience · Software Quality |
-| **DevOps** | CI/CD Pipelines · GitHub Actions · Deployment Strategies |
+### 🏫 School ERP Administration Portal
+**Role:** Frontend Architecture & UI Engineering  
+**Live:** [https://school-admin-shumail.vercel.app/](https://school-admin-shumail.vercel.app/)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/school-erp-admin)
+
+Comprehensive enterprise platform serving schools with student management, attendance, examinations, and financial systems. Architected reusable component library with RBAC implementation.
+
+**Highlights:**
+- 📚 Multi-user role-based access control system
+- ✅ Real-time attendance & examination workflows
+- 💰 Financial management & billing modules
+- 📊 Analytics dashboards with data visualization
+- 🎯 Responsive design for all devices
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Redux Toolkit · REST APIs
+
+---
+
+### 🏢 Enterprise Administration Portal
+**Live:** [https://admin-portal-shumail.vercel.app/](https://admin-portal-shumail.vercel.app/)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/enterprise-admin-portal)
+
+Modern SaaS administration portal showcasing enterprise-scale UI patterns and dashboard design. Features sophisticated user management, reporting, and team collaboration workflows.
+
+**Highlights:**
+- 📊 Advanced analytics dashboards with custom widgets
+- 👥 User management with role hierarchies
+- ⚙️ System configuration workflows
+- 🔔 Real-time notification system
+- 📈 Comprehensive reporting module
+
+**Tech:** Next.js · React.js · TypeScript · Tailwind CSS · Redux Toolkit
+
+---
+
+### 🤖 AI SaaS Dashboard
+**Live:** [https://shuamil-ai-saas-dashboard-azure.vercel.app/](https://shuamil-ai-saas-dashboard-azure.vercel.app/)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/ai-saas-dashboard)
+
+Next-generation SaaS dashboard with integrated AI workflows. Demonstrates modern component architecture, real-time features, and scalable application patterns.
+
+**Highlights:**
+- 🏢 Workspace management with multi-team support
+- 🤖 AI analytics & insight generation
+- 🛠️ Productivity workflow automation
+- 💡 Intelligent recommendations engine
+- ⚡ Optimized performance & caching
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · AI Integration · Performance Optimization
+
+---
+
+### 📊 SaaS Administration Dashboard
+**Live:** [https://shumail-admin-dashboard.vercel.app/](https://shumail-admin-dashboard.vercel.app/)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/saas-admin-dashboard)
+
+Full-featured analytics dashboard showcasing data visualization, KPI tracking, and responsive design patterns suitable for enterprise environments.
+
+**Highlights:**
+- 📈 Real-time KPI dashboards
+- 📋 Advanced filtering & sorting
+- 🎨 Reusable widget components
+- 📊 Multi-format data visualizations
+- 📱 Mobile-first responsive design
+
+**Tech:** Next.js · React.js · TypeScript · Recharts · Data Visualization
+
+---
+
+### 🛒 E-Commerce Storefront
+**Live:** [https://shumail-e-commerce-storefront.vercel.app/](https://shumail-e-commerce-storefront.vercel.app/)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/ecommerce-storefront)
+
+Production-ready e-commerce platform with complete customer journey from discovery to checkout. Demonstrates SEO optimization, performance best practices, and accessibility standards.
+
+**Highlights:**
+- 🏷️ Dynamic product catalog with filtering
+- 🛍️ Advanced cart & checkout flows
+- ⭐ Reviews & ratings system
+- 🔍 Full-text search functionality
+- 📱 Mobile-optimized experience
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · REST APIs · Stripe Integration
+
+---
+
+### 📄 ATS Resume Builder
+**Live:** [https://shumail.vercel.app/projects/resume-builder](https://shumail.vercel.app/projects/resume-builder)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/resume-builder)
+
+Professional resume builder optimized for ATS (Applicant Tracking Systems). Features real-time editing, multiple templates, and PDF export with quality assurance validation.
+
+**Highlights:**
+- ✏️ Real-time WYSIWYG editing
+- 🎨 ATS-optimized templates
+- 👁️ Live preview pane
+- 📥 PDF generation & download
+- ✅ ATS validation engine
+
+**Tech:** React.js · TypeScript · Tailwind CSS · PDF Generation
+
+---
+
+### 🔌 API Hub Testing Tool
+**Live:** [https://shumail.vercel.app/projects/api-hub-testing-tool](https://shumail.vercel.app/projects/api-hub-testing-tool)  
+**Repo:** [GitHub](https://github.com/muhammad-shumail/api-hub-testing)
+
+Browser-based API testing platform for developers. Features request builder, response inspection, performance monitoring, and collection management—like Postman in your browser.
+
+**Highlights:**
+- 📤 Visual HTTP request builder
+- 🔍 Advanced response inspector
+- ⏱️ Performance metrics tracking
+- 📊 Request history & analytics
+- 🎯 Collection & workspace management
+
+**Tech:** React.js · TypeScript · Tailwind CSS · API Integration
+
+---
+
+### ⚡ Performance Testing Framework
+**Repo:** [GitHub](https://github.com/muhammad-shumail/performance-testing-framework)
+
+Enterprise-grade performance testing framework with automated reporting and visualization. Used for load testing, stress testing, spike testing, and comprehensive performance analysis.
+
+**Highlights:**
+- 📈 Load & stress testing scenarios
+- 💥 Spike & endurance testing
+- 📊 Automated report generation
+- 📉 Performance trend analysis
+- 🔬 Advanced visualization
+
+**Tech:** k6 · Bun.js · TypeScript · Node.js
+
+---
+
+## 🛠️ Developer Tools
+
+I've built several open-source tools to enhance the development workflow:
+
+<details>
+<summary><strong>View Developer Tools</strong></summary>
+
+### 📝 Remove Unused CSS Tool
+Analyze and remove unused CSS classes from your projects, improving bundle size and maintainability.
+**[GitHub](https://github.com/muhammad-shumail/Remove-Unused-Css-Tool)**
+
+### 🎨 Code Coverage Tool (Puppeteer)
+Automated code coverage analysis using Puppeteer. Generate detailed coverage reports for your applications.
+**[GitHub](https://github.com/muhammad-shumail/puppeteer-code-coverage)**
+
+### 🔐 API Validation Framework
+Comprehensive API testing and validation framework for ensuring robust backend integration.
+**[GitHub](https://github.com/muhammad-shumail/api-hub-testing)**
+
+### 🎯 Password Generator
+Secure password generation utility with customizable complexity levels and character sets.
+**[GitHub](https://github.com/muhammad-shumail/password-generator)**
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-shumail&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shumail&theme=dark&hide_border=true&layout=compact&card_width=500)
+
+</div>
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shumail&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity)
+
+</div>
+
+---
+
+## 🎯 Engineering Interests
+
+| Domain | Focus Areas |
+|--------|------------|
+| **Frontend Architecture** | Component design systems · Scalable UI patterns · Design systems · Module federation |
+| **React Ecosystem** | React 19 · Server Components · Concurrent features · Suspense patterns |
+| **Next.js** | App Router · Server Components · Streaming · Edge Computing · ISR |
+| **Performance** | Web Vitals · Code splitting · Image optimization · Bundle analysis · Caching strategies |
+| **Accessibility** | WCAG compliance · Screen reader support · Keyboard navigation · Semantic HTML · ARIA patterns |
+| **Testing** | Unit testing · E2E testing · Integration testing · Visual regression · Performance testing |
+| **Developer Experience** | TypeScript · Error handling · Developer tools · CLI development · Documentation |
+| **System Design** | Scalable architecture · Micro frontends · Design patterns · State management · API design |
+
+---
+
+## 🚀 Currently Learning
+
+```javascript
+const currentFocus = {
+  frontend: ["React 19 Features", "Server Components", "Concurrent Rendering"],
+  frameworks: ["Next.js 15+", "App Router Mastery", "Edge Computing"],
+  performance: ["Core Web Vitals", "Advanced Optimization", "Serverless Performance"],
+  architecture: ["Micro Frontends", "Design Systems", "Scalable UX Patterns"],
+  ai: ["AI-assisted Development", "ML Integration", "Vector Databases"]
+};
+```
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-> **"Great software is built when scalable architecture, exceptional user experience, and reliable quality work together."**
+> *"Every line of code is a promise to future maintainers—write with clarity, optimize with intention, test with rigor."*
 
-I believe in:
-- 🏗️ **Clean Architecture** - Maintainable, scalable codebases that stand the test of time
-- ⚡ **Performance First** - User experience is paramount in every feature
-- 🧪 **Quality Assurance** - Comprehensive testing reduces bugs and technical debt
-- 📚 **Knowledge Sharing** - Mentoring and documentation elevate team capabilities
-- 🔄 **Continuous Improvement** - Always learning and adopting modern best practices
+### Core Principles
+
+🏗️ **Clean Architecture**
+- Maintainable codebases that scale with your product
+- Logical separation of concerns
+- Reusable, composable components
+
+⚡ **Performance First**
+- User experience is non-negotiable
+- Optimize for Core Web Vitals
+- Measure, iterate, improve
+
+🧪 **Quality Through Testing**
+- Comprehensive test coverage
+- Reduced technical debt
+- Confidence in deployments
+
+📚 **Knowledge Sharing**
+- Mentoring junior engineers
+- Clear documentation
+- Team elevation
+
+🔄 **Continuous Improvement**
+- Stay current with ecosystem
+- Embrace new best practices
+- Iterate on processes
 
 ---
 
-## 📝 Recent Blog Posts
+## 🌟 Professional Experience
 
-<!-- BLOG-POST-LIST:START -->
-- Check out my portfolio for articles and insights: [shumail.vercel.app](https://shumail.vercel.app)
-<!-- BLOG-POST-LIST:END -->
+**Frontend Engineer** | Cloud Primero B.V. | 2023–Present
+- Leading frontend architecture for enterprise healthcare & education platforms
+- Building scalable React/Next.js applications serving millions of interactions
+- Implementing design systems and component libraries
+- Mentoring junior developers on best practices
+
+**Software Quality Engineer** | Previous Role
+- Comprehensive testing frameworks (Jest, Playwright, Puppeteer)
+- Performance analysis and optimization
+- CI/CD pipeline development
+- Production issue investigation
 
 ---
 
-## 🤝 Let's Connect
+## 📚 Learning Resources
+
+<details>
+<summary><strong>Recommended Learning Path</strong></summary>
+
+### Frontend Mastery
+- Advanced React patterns & hooks
+- Next.js App Router deep dive
+- Server Components & Streaming
+
+### Performance Optimization
+- Web Vitals & Core Metrics
+- Bundle analysis & code splitting
+- Image & asset optimization
+
+### System Design
+- Design patterns in React
+- State management strategies
+- Scalable architecture patterns
+
+### Testing Strategies
+- Unit & integration testing
+- E2E testing automation
+- Performance & accessibility testing
+
+</details>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in:
+- ✨ Building world-class frontend experiences
+- 🚀 Scaling product teams & codebases
+- 📚 Open-source contributions
+- 🎓 Mentoring & knowledge sharing
+- 💼 Consulting on frontend architecture
 
 <div align="center">
+
+### Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shumail.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shumail-ansari/)
@@ -279,41 +435,25 @@ I believe in:
 
 ---
 
-## 📚 Learning & Development
+## 🎉 Quick Facts
 
-- 🔬 Exploring advanced React patterns and performance optimization techniques
-- 📊 Deepening expertise in data visualization and analytics platforms
-- 🤖 Staying updated with AI/ML integration in frontend applications
-- 🎨 Mastering design systems and component-driven development
-- ⚙️ Expanding full-stack capabilities with modern backend frameworks
-
----
-
-## 🎉 Fun Facts
-
-✨ **Building React & Next.js applications since 2021**  
-🚀 **Passionate about frontend architecture and reusable component systems**  
-🧪 **Strong advocate of quality-first engineering practices**  
-📚 **Always learning new technologies and modern development patterns**  
-🌍 **Contributing to open-source communities**  
-💡 **Mentoring junior developers and sharing knowledge**  
-
----
-
-## 🏆 Achievements
-
-- ✅ **5+ years** of frontend engineering experience
-- ✅ **Enterprise-scale** application development
-- ✅ **Performance-optimized** web applications
-- ✅ **Quality-focused** engineering practices
-- ✅ **Team lead** and mentor experience
+✨ **5+ years** building production React & Next.js applications  
+🏢 **Enterprise expertise** in healthcare, education, and SaaS domains  
+📊 **Dashboard specialist** with data visualization & analytics focus  
+🔐 **Security-conscious** developer with authentication & RBAC implementation  
+⚡ **Performance-driven** approach to web application development  
+🧪 **Quality advocate** integrating testing throughout development  
+📚 **Continuous learner** staying updated with React & web platform trends  
+🌍 **Collaborative engineer** passionate about mentoring and team growth  
 
 ---
 
 <div align="center">
 
-### 🌟 If you find my work interesting, consider giving a ⭐ to my repositories!
+### 💡 Open to Work | Available for Opportunities
 
-**Last Updated:** 2024
+*Last Updated: July 2024*
+
+If you're building something amazing and need a frontend engineer who cares about performance, quality, and scalability—let's talk!
 
 </div>
