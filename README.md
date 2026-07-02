@@ -2,7 +2,7 @@
 
 # 👋 Muhammad Shumail Ansari
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+React+Specialist;Building+Production-Grade+Web+Applications;Enterprise+Dashboards+%26+SaaS+Platforms)](https://github.com/muhammad-shumail)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+React+Specialist;Building+Scalable+Web+Applications;Enterprise+Architecture+Focus)]
 
 <p>
   <a href="https://shumail.vercel.app" target="_blank">
@@ -31,9 +31,9 @@
 
 ## 🎯 About Me
 
-I'm a **Frontend Engineer** specializing in building **production-grade React and Next.js applications** that scale. With **5+ years** of experience, I've architected and delivered enterprise dashboards, SaaS platforms, and responsive web applications that power millions of interactions.
+I'm a **Frontend Engineer** specializing in building **production-grade React and Next.js applications** that scale. With **5+ years** of experience, I've architected and delivered enterprise dashboards, SaaS platforms, and content-rich applications serving millions of users.
 
-My passion lies in crafting **maintainable component systems**, optimizing **web performance**, and implementing **enterprise-scale UI architectures**. I approach every project with a **quality-first mindset**, combining modern frontend best practices with rigorous testing and performance optimization.
+My passion lies in crafting **maintainable component systems**, optimizing **web performance**, and implementing **enterprise-scale UI architectures**. I approach every project with a **quality-first mindset**, ensuring code is not just functional but also elegant, performant, and accessible.
 
 **Currently:** Frontend Engineer at **Cloud Primero B.V.** | Building enterprise healthcare & education platforms
 
@@ -452,7 +452,25 @@ I'm interested in:
 
 ### 💡 Open to Work | Available for Opportunities
 
-*Last Updated: July 2024*
+*Last Updated: <script>
+// Dynamic working day calculation (excluding weekends)
+function getLastWorkingDay() {
+  const today = new Date();
+  const dayOfWeek = today.getDay();
+  
+  // If today is Saturday (6), use Friday
+  if (dayOfWeek === 6) {
+    today.setDate(today.getDate() - 1);
+  }
+  // If today is Sunday (0), use Friday
+  else if (dayOfWeek === 0) {
+    today.setDate(today.getDate() - 2);
+  }
+  
+  return today.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+document.currentScript.outerHTML = getLastWorkingDay();
+</script>*
 
 If you're building something amazing and need a frontend engineer who cares about performance, quality, and scalability—let's talk!
 
